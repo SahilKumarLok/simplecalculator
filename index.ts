@@ -22,5 +22,5 @@ if (answer.operator === "Addition") {
 } else if (answer.operator === "division") {
     console.log(answer.firstNumber / answer.secondNumber);
 } else {
-    console.log("");
+    console.log("Please select the operator");
 }
